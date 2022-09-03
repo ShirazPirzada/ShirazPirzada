@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/shiraz_pirzada" target="blank"><img src="https://img.shields.io/twitter/follow/shiraz_pirzada?logo=twitter&style=for-the-badge" alt="shiraz_pirzada" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Web Development , ASP.NET MVC & MVVM**
 
