@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Shiraz Pirzada</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">Just Trying to Learn</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611d7a4125f0d3b1ffcad8e45299aec325e1543e144&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirazpirzada&label=Profile%20views&color=0e75b6&style=flat" alt="shirazpirzada" /> </p>
@@ -9,9 +9,6 @@
 
 
 - 💬 Ask me about **Web Development , ASP.NET MVC & MVVM**
-
-- 📫 How to reach me **shirazpirzada702@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shiraz_pirzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiraz_pirzada" height="30" width="40" /></a>
