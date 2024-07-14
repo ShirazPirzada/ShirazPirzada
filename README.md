@@ -1,3 +1,4 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Shiraz Pirzada</h1>
 <h3 align="center">Just Trying to Learn</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611d7a4125f0d3b1ffcad8e45299aec325e1543e144&rid=giphy.gif&ct=g">
