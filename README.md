@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611d7a4125f0d3b1ffcad8e45299aec325e1543e144&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirazpirzada&label=Profile%20views&color=0e75b6&style=flat" alt="shirazpirzada" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shiraz_pirzada" target="blank"><img src="https://img.shields.io/twitter/follow/shiraz_pirzada?logo=twitter&style=for-the-badge" alt="shiraz_pirzada" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Shiraz#3591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shiraz#3591" height="30" width="40" /></a>
